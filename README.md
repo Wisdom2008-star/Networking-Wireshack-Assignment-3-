@@ -1,2 +1,2 @@
-# Analyzing-Traffic-Using-Wireshark-
+# Analyzing-Network-Traffic-Using-Wireshark
 Wireshack Assignment for Networking
